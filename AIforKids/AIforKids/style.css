@@ -1,0 +1,278 @@
+body{
+    background-image: url("Screenshot 2024-07-18 170849.png");
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+
+
+header
+{
+    display:flex;
+    height: 50px;
+    width: 1528px;
+    background-color: rgba(0,0,0,0.75);
+    border: 0px; 
+    display: inline-flex;
+    justify-content:space-around;
+    color:#D99A3E;
+    align-items:center;
+}
+a
+{
+    text-decoration: none;
+    color:#D99A3E;
+    
+}
+
+#one
+{
+    font-size: x-large;
+    color: #D99A3E;
+}
+#two
+{
+    font-size: x-large;
+    color:#D99A3E
+}
+#three
+{
+    font-size: x-large;
+    color: #D99A3E;
+}
+#four
+{
+    font-size: x-large;
+    color: #D99A3E;
+}
+
+
+img
+{
+    height: 55px;
+    width: 55px;;
+}
+button
+{
+    background-color:rgba(255, 217, 0, 0.1);
+    color: #D99A3E;
+    border-radius: 10%;
+    padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+  outline-color: blue;
+  transition-duration: 1s;
+  border: 0cap;
+}
+#five
+{
+    color:#d9a33e;
+    background-color: rgba(255, 255, 0, 0.1);
+    border-radius: 10%;
+    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 0px 0px;
+  cursor: pointer;
+  outline-color: #d9b03e;
+  border: 0cap; 
+}
+#one :hover{
+    background-color: #FCD330;
+    color: black;
+    transform: scale(1.2);
+    transition: all ease-in 0.5s;
+  }
+  #two :hover{
+    background-color: #FCD330;
+    color: black;
+    transform: scale(1.2);
+    transition: all ease-in 0.5s;
+  }
+  #three :hover{
+    background-color: #FCD330;
+    color: black;
+    transform: scale(1.2);
+    transition: all ease-in 0.5s;
+  }
+  #four :hover{
+    background-color: #FCD330;
+    color: black;
+    transform: scale(1.2);
+    transition: all ease-in 0.5s;
+  }
+  #five:hover{
+    background-color: #FCD330;
+    color: black;
+    
+    transition: all ease-in 0.5s;
+    
+  }
+  
+  #intro
+  {
+    text-align: center;
+    padding-top: 15%;
+    height: 300%;
+    text-shadow: #FCD330;
+    font-size: xx-large;
+    color:#D99A3E;
+    align-items:center;
+    padding-bottom:15%;
+    
+  }
+  #step1
+  {
+    text-align: center;
+    padding-top: 15%;
+    height: 300%;
+    text-shadow: #FCD330;
+    font-size: x-large;
+    color:#D99A3E;
+    align-items:center;
+    padding-bottom: 15%;
+    font-style: oblique;
+    
+  }
+  #step2
+  {
+    text-align: center;
+    
+    height: 300%;
+    text-shadow: #FCD330;
+    font-size: x-large;
+    color:#D99A3E;
+    align-items:center;
+    padding-bottom:5%;
+    font-style: oblique;
+    background-color:#d99b3e52
+  }
+
+  #step0
+  {
+    color:#D99A3E;
+    background-color:#d99b3e52;
+    border-radius: 10%;
+    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 0px 0px;
+  cursor: pointer;
+  outline-color: blue;
+  border: 0cap;
+  width: 1300px;
+  height: 50px;   
+  
+  }
+
+  #step0:hover
+  {
+    background-color: #D99A3E;
+    color: black;
+    transition: all ease-in 0.5s;
+    size: 10px;
+  }
+
+  #sc
+  {
+    height: 700px;
+    width: 700px; 
+   
+  }
+
+#pic
+{
+  text-align: center;
+  color:#D99A3E;
+}
+
+#vid
+{
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+#step3out
+{
+  color:#000000;
+  background-color:#d99b3e90;
+  border-radius: 3%;
+  height: 440px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+#step3
+{
+  display:flex;
+ color:#000000;
+  background-color:#d99b3e;
+  border-radius: 10%;
+  
+text-align: center;
+text-decoration: none;
+display: inline-flex;
+
+margin: 0px 0px;
+cursor: pointer;
+outline-color: blue;
+transition-duration: 1s;
+border: 0cap;
+justify-content: space-evenly;
+width: 1200px;
+height: 350px;
+}
+
+#q
+{
+  width: 240px;
+  height: 310px;
+  border-radius: 4%;
+  color: #000000;
+}
+#w
+{
+  width: 240px;
+  height: 310px;
+  border-radius: 4%;
+}
+#e
+{
+  width: 240px;
+  height: 310px;
+  border-radius: 4%;
+}
+
+#q:hover
+{
+  background-color: #3ed96f;
+  color: black;
+  transition: all ease-in 0.5s;
+  size: 10px;
+  transform: scale(1.2);
+  background-color: #f09d0f;  }
+#w:hover
+{
+  background-color: #3ed96f;
+  color: black;
+  transition: all ease-in 0.5s;
+  size: 10px;
+  transform: scale(1.2);
+  background-color: #f09d0f;  }
+#e:hover
+{
+  
+  color: black;
+  transition: all ease-in 0.5s;
+  size: 10px;
+  transform: scale(1.2);
+  background-color: #f09d0f;
+}
+
